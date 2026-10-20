@@ -1,0 +1,6 @@
+{
+  "name": "CloserAI - BillEasy Voice Sales Agent",
+  "description": "An interactive AI voice sales agent for BillEasy that conducts real-time sales calls, handles objections, pitches GST invoicing, records calls, and drives demo/trial conversions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
